@@ -1,5 +1,8 @@
 # CSC207Week3GroupWork - Chat System with Weather Feature
 
+## Run
+Go to the folder "CSC207Week3GroupWork/src/test/java/ApiCaller.java" and click run.
+
 ## Problem Domain
 Our team is focusing on the domain of real-time communication augmented with contextual information. In today's digital age, effective and enriched communication platforms are crucial for both personal and professional interactions. Our application aims to enhance user interaction by providing real-time weather updates within a chat interface.
 
